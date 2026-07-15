@@ -1,10 +1,8 @@
 # Customer Behavior Analysis using Python
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes customer purchasing behavior using Python and Machine Learning techniques. The objective is to understand customer purchase patterns, segment customers based on their buying behavior, analyze churn, and provide business recommendations to improve customer retention and revenue.
-
-This project was completed as part of the **Alfido Tech Data Analytics Internship**.
 
 ---
 
@@ -20,7 +18,7 @@ This project was completed as part of the **Alfido Tech Data Analytics Internshi
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -32,7 +30,7 @@ This project was completed as part of the **Alfido Tech Data Analytics Internshi
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 Dataset: **E-commerce Customer Behavior Dataset**
 
@@ -54,7 +52,7 @@ The dataset contains customer purchase records with the following attributes:
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 
@@ -189,4 +187,7 @@ The project successfully:
 
 ---
 Author
+
+
+
 Ankita yadav 
