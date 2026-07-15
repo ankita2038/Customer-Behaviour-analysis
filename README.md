@@ -123,7 +123,7 @@ Analyzed customer churn using:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Books and Clothing generated the highest revenue.
 - Customers aged 30–50 contributed the highest sales.
@@ -133,7 +133,7 @@ Analyzed customer churn using:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. Launch loyalty programs for high-value customers.
 2. Offer personalized discounts to churn-risk customers.
@@ -143,7 +143,7 @@ Analyzed customer churn using:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Customer_Behavior_Project/
@@ -157,7 +157,7 @@ Customer_Behavior_Project/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone or download the project.
 2. Install the required libraries.
@@ -176,7 +176,7 @@ jupyter notebook
 
 ---
 
-## 📌 Results
+##  Results
 
 The project successfully:
 
@@ -189,14 +189,3 @@ The project successfully:
 
 ---
 
-## 👨‍💻 Author
-
-**Shubham Yadav**
-
-Data Analytics Intern
-
----
-
-## 📄 License
-
-This project is developed for educational and internship purposes.
