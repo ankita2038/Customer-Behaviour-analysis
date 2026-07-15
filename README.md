@@ -6,7 +6,7 @@ This project analyzes customer purchasing behavior using Python and Machine Lear
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Perform Data Cleaning and Preprocessing
 - Conduct Exploratory Data Analysis (EDA)
